@@ -14,5 +14,4 @@ export default class CoordinatesButton  extends React.Component{
       <button onClick={this.handleClick}></button>
       
       )
-  }
-}
+  }}
